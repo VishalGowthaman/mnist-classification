@@ -26,10 +26,6 @@ Build a CNN model
 Compile and fit the model and then predict
 
 ## Program
-```
-Developed By: Vishal Gowthaman K R
-Reg no: 212221230123
-```
 ```python
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
